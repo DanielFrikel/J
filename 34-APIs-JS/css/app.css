@@ -13,7 +13,9 @@ html {
 }
 .ocultar {
     display:none;
+    color:white;
 }
 .mostrar {
     display:block;
+    color:white;
 }
