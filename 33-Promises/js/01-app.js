@@ -2,7 +2,7 @@ const paises = ['Francias','Espana','Portugal','Australia','Inglaterra'];
 
 function nuevoPais(pais,callback){
     setTimeout(() => {
-        paises.push(pais);
+        paises.push(pais);        
         callback();
     }, 2000);
 }
